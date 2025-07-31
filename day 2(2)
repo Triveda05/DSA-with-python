@@ -1,0 +1,5 @@
+ch=input("Enter a character to find whether it is a vowel or consonant:")
+if ch in "aeiouAEIOU":
+    print("vowel")
+else:
+    print("consonant")
